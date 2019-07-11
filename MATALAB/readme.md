@@ -1,1 +1,1 @@
-Escritos desenvolvidos em MATLAB para análise.
+Scripts desenvolvidos em MATLAB para análise.
